@@ -8,12 +8,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about yo
 
-Model 1
-Building Linear regression model to
-predict Bike rental daily count based
-on environmental factors
+Linear recression model
+The problem is to build a multiple linear regression model for the prediction of demand for shared bikes
 
 ## Header 2
 
