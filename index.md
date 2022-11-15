@@ -5,7 +5,7 @@
 
 > The problem is to build a multiple linear regression model for the prediction of demand for shared bikes
 
-## Predicting Customer Churn rate
+## Predict Customer Churn rate
 
 > Predict the customer churn rate on telecom data set using logistic regression.
 
