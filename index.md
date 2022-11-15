@@ -3,19 +3,20 @@
 
 ## Predict demand for shared bikes
 
-The problem is to build a multiple linear regression model for the prediction of demand for shared bikes
+> The problem is to build a multiple linear regression model for the prediction of demand for shared bikes
 
 ## Predicting Customer Churn rate
 
 > Predict the customer churn rate on telecom data set using logistic regression.
 
 ## Lead conversion
-Predict the Lead conversion rate for educational dataset using logistic regression.
+> Predict the Lead conversion rate for educational dataset using logistic regression.
 
 ## Predict house rate
-Predict the housing rate using Predictive modelling
+> Predict the housing rate using Predictive modelling
 
-
+##### Achievements
+> Did a POC on migrating Data from on premise Oracle DB to Amazon Arora DB. Migrated10K data from Oracle to Arora DB using Amazon DMS service and migrated the tables and procedures using SCT tool provided by AWS.
 
 ##### Employment history
 
