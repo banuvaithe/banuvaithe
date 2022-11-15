@@ -13,13 +13,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Linear recression model
 The problem is to build a multiple linear regression model for the prediction of demand for shared bikes
 
-## Header 2
+## Predicting Customer Churn rate
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Predict the customer churn rate on telecom data set using logistic regression.
 
-### Header 3
+### Lead conversion
+Predict the Lead conversion rate for educational dataset using logistic regression.
 
 ```js
 // Javascript code with syntax highlighting.
