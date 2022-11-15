@@ -1,94 +1,35 @@
 ---
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+## Linear recression model
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about yo
-
-Linear recression model
 The problem is to build a multiple linear regression model for the prediction of demand for shared bikes
 
 ## Predicting Customer Churn rate
 
 > Predict the customer churn rate on telecom data set using logistic regression.
 
-### Lead conversion
+## Lead conversion
 Predict the Lead conversion rate for educational dataset using logistic regression.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Predict house rate
+Predict the housing rate using Predictive modelling
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+##### Employment history
 
-##### Header 5
+1.  Tech Lead at CNSI - Dec-2018 - Present
+2.  Asst Project Manager at Indus software - Jun 2017 - Dec 2018
+3.  Architect at Cognizant technology solutions - May 2008 - Jun 2017
+4.  System Analyst at Tata consultancy services - Feb 2004 - May 2008
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+#### Educational Details
 
-###### Header 6
+*   B.E from Annamalai University
+*   Executive PG program in DS from IIIT-B
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
