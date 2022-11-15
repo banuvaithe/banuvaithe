@@ -63,6 +63,10 @@ tr:nth-child(even) {
     <td>Statistics</td>
     <td>Statistics	Hadoop - Hbase , Hive , MapReduce , Oozie, Pig, Sqoop, Flume</td>
   </tr>
+   <tr>
+    <td>AWS</td>
+    <td>S3, EC2, VPC, EMR, Hbase</td>
+  </tr>
 </table>
 
 </body>
