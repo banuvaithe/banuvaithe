@@ -68,7 +68,7 @@ tr:nth-child(even) {
 </body>
 </html>
 
-##### Employment history
+#### Employment history
 
 1.  Tech Lead at CNSI - Dec-2018 - Present
 2.  Asst Project Manager at Indus software - Jun 2017 - Dec 2018
