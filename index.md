@@ -29,18 +29,24 @@ Predict the housing rate using Predictive modelling
 *   B.E from Annamalai University
 *   Executive PG program in DS from IIIT-B
 
+#### Certification
+
+* Oracle forms developer certified professional (OCP)
+* Oracle 9i PL/SQL developer certified associate (OCA)
+* Sun Certified Java Programmer (SCJP)
+* Basics of supply chain management (BSCM)
+* Advanced Healthcare Management (AHM 250)
+* Sun certified Web component Developer (SCWCD)
+* Oracle Database 11g Administrator Certified Associate (OCA)
+* ITIL Foundation (2011)
+* Certified scrum master (2018)
+* Python Mini degree from Eduonix
 
 
-### Small image
+
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
