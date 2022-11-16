@@ -106,7 +106,7 @@ tr:nth-child(even) {
 
 
 
-![Octocat](https://myoctocat.com/assets/images/base-octocat.svg)
+![Octocat](/assets/images/electrocat.png)
 
 
 
