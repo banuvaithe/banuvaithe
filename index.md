@@ -112,7 +112,7 @@ tr:nth-child(even) {
 <dt>Email</dt>
 <dd>banuvaithe@gmail.com</dd>
 <dt>Linkedin</dt>
-<dd> <a href="https://linkedin.com/in/seethalakshmi-v-1689a228"></a> </dd>
+<dd> <a href="https://linkedin.com/in/seethalakshmi-v-1689a228">Profile</a> </dd>
 
 </dl>
 
