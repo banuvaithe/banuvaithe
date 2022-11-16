@@ -105,8 +105,31 @@ tr:nth-child(even) {
 
 
 
+<html>
+<head>
+<style>
+html, body {
+  height: 100%;
+}
 
-![Octocat](/assets/img/Octocat.png)
+img.one {
+  height: auto;
+  width: auto;
+}
+
+img.two {
+  height: 20%;
+  width: 20%;
+}
+</style>
+</head>
+<body>
+
+<img class="two" src="/assets/img/Octocat.png" width="300" height="300">
+
+</body>
+</html>
+
 
 
 
