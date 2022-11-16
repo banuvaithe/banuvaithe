@@ -65,7 +65,11 @@ tr:nth-child(even) {
   </tr>
    <tr>
     <td>AWS</td>
-    <td>S3, EC2, VPC, EMR, Hbase</td>
+    <td>S3, EC2, VPC, EMR</td>
+  </tr>
+     <tr>
+    <td>NOSQL Database</td>
+    <td>Cassandra, Hbase, MongoDB</td>
   </tr>
 </table>
 
@@ -112,7 +116,7 @@ tr:nth-child(even) {
 <dt>Email</dt>
 <dd>banuvaithe@gmail.com</dd>
 <dt>Linkedin</dt>
-<dd> <a href="https://linkedin.com/in/seethalakshmi-v-1689a228">Profile</a> </dd>
+<dd> <a href="https://linkedin.com/in/seethalakshmi-v-1689a228" target="_blank">Profile</a> </dd>
 
 </dl>
 
