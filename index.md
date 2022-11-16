@@ -15,8 +15,6 @@
 ## Predict house rate
 > Predict the housing rate using Predictive modelling
 
-#### Achievements
-> Did a POC on migrating Data from on premise Oracle DB to Amazon Arora DB. Migrated10K data from Oracle to Arora DB using Amazon DMS service and migrated the tables and procedures using SCT tool provided by AWS.
 
 <html>
 <head>
@@ -76,6 +74,10 @@ tr:nth-child(even) {
 </body>
 </html>
 
+
+#### Achievements
+> Did a POC on migrating Data from on premise Oracle DB to Amazon Arora DB. Migrated10K data from Oracle to Arora DB using Amazon DMS service and migrated the tables and procedures using SCT tool provided by AWS.
+
 #### Employment history
 
 1.  Tech Lead at CNSI - Dec-2018 - Present
@@ -104,7 +106,7 @@ tr:nth-child(even) {
 
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
