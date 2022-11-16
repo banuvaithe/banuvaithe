@@ -13,8 +13,11 @@
 > Predict the Lead conversion rate for educational dataset using logistic regression.
 
 ## Predict house rate
-> Predict the housing rate using Predictive modelling
+> Predict the housing rate using multiple linear regression
 
+
+## EDA Analysis
+> Performed univariate and bivariate analysis on loan dataset using various plots from matplotlib and seaborne
 
 <html>
 <head>
