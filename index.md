@@ -50,7 +50,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Languages/Technology</td>
-    <td>Python, JAVA, PL/SQL, SQL, UNIX/Shell Scripting</td>
+    <td>Python, JAVA, SCALA, PL/SQL, SQL, UNIX/Shell Scripting</td>
   </tr>
   <tr>
     <td>Databases</td>
@@ -62,11 +62,11 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Statistics</td>
-    <td>Statistics	Hadoop - Hbase , Hive , MapReduce , Oozie, Pig, Sqoop, Flume</td>
+    <td>Statistics	Hadoop - Hbase , Hive , MapReduce , SPARK, Oozie, Pig, Sqoop, Flume</td>
   </tr>
    <tr>
     <td>AWS</td>
-    <td>S3, EC2, VPC, EMR</td>
+    <td>S3, EC2, VPC, EMR, Redshift </td>
   </tr>
      <tr>
     <td>NOSQL Database</td>
